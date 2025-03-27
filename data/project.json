@@ -9,7 +9,7 @@
     "github_org": "hayleedeakin1",
     "is_private": false,
     "title": "\"Do not go gentle into that good night\" BBC Wales Annotation",
-    "description": "An annotation of \"Do not go gentle into that good night\" by Dylan Thomas. The poem is read by multiple Welsh personalities. In the annotation I point out polyvocal aspects of the audio and the change in tempo.",
+    "description": "An annotation of \"Do not go gentle into that good night\" by Dylan Thomas. The poem is read by multiple Welsh personalities. ",
     "language": "en",
     "slug": "thomas-sample",
     "creator": "hayleedeakin1",
@@ -22,6 +22,8 @@
       "tags": []
     },
     "created_at": "2025-03-27T04:32:20.009Z",
-    "updated_at": "2025-03-27T04:32:20.009Z"
-  }
+    "updated_at": "2025-03-27T04:32:40.647Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
