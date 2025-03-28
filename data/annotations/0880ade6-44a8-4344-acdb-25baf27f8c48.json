@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 34,
-      "end_time": 37,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Rage, rage against the dying of the light.\" New female and male voice mingle together, the male gets louder towards the end of the line"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "b26868c4-7bc1-4fa8-a18f-0b72bc47860b"
-    },
-    {
       "start_time": 38,
       "end_time": 39,
       "annotation": [
