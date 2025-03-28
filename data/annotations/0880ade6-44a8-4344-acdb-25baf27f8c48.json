@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 31,
-      "end_time": 33,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Their frail deeds might have danced in a green bay\" Male voice fades as a new female voice gets louder"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "a44f3941-2ba1-40ee-bc42-b6b372b1419a"
-    },
-    {
       "start_time": 34,
       "end_time": 37,
       "annotation": [
