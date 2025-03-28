@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 9,
-      "end_time": 14,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Rage, rage against the dying of the light\" This line overlaps with a female voice as the male voice gets quieter"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "0e0692ce-3141-4924-8a95-047e44c18676"
-    },
-    {
       "start_time": 15,
       "end_time": 19,
       "annotation": [
