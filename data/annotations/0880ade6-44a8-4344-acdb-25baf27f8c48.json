@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 67,
-      "end_time": 70,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"And you, my father, there on the sad height\" A new male voice speaks then another voice joins and says with him the last two words \"sad height\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "252a9dba-8583-4036-8615-0f17c2ecec30"
-    },
-    {
       "start_time": 71,
       "end_time": 76,
       "annotation": [
