@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 15,
-      "end_time": 19,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Though wise men at their end know dark is right\" Overlapping male and female voice, but the female voice is louder"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "da693272-938d-4f1c-ac1d-68c0c8b74fe8"
-    },
-    {
       "start_time": 20,
       "end_time": 22,
       "annotation": [
