@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 47,
-      "end_time": 50,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Do not go gentle into that good night\" New male voice and the female from the line beofre fades out in the first half"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "7083adac-c53f-49ce-9c0d-8ed7c863b70d"
-    },
-    {
       "start_time": 51,
       "end_time": 56,
       "annotation": [
