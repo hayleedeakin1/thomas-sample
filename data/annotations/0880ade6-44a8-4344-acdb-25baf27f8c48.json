@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 23,
-      "end_time": 24,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Do not go gentle into that good night\" Overlapping voices, new female voice is louder while the male voice fades into the background. The female voice speaks a little quicker."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "60fab5ea-c937-4a39-817e-4a8f51a46a22"
-    },
-    {
       "start_time": 25,
       "end_time": 26,
       "annotation": [
