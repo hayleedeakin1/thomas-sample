@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 2,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Blank noise before the first speaker starts his line"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Extra-Poetic Sound"
-        }
-      ],
-      "uuid": "9c429b27-0575-4adb-85fe-3b615f899df1"
-    },
-    {
       "start_time": 3,
       "end_time": 6,
       "annotation": [
