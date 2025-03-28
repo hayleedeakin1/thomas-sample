@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 40,
-      "end_time": 43,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Wild men who caught and sang the sun in flight\" New singular male voice. At the end of the line a new soft female voice can be heard in the background"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "1d08f9f9-3488-4cb3-b63b-7bcd25a7875a"
-    },
-    {
       "start_time": 44,
       "end_time": 46,
       "annotation": [
