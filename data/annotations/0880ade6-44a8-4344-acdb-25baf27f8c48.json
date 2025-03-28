@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 44,
-      "end_time": 46,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"And learn, too late, they grieved it on its way\" Singular female voice from the line before"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "bc9764fa-f0f8-4113-ad7a-d8b4e5eb13c0"
-    },
-    {
       "start_time": 47,
       "end_time": 50,
       "annotation": [
