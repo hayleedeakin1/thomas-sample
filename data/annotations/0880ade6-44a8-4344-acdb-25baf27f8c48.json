@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 57,
-      "end_time": 61,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Blind eyes could blaze like meteors and be gay\" Male voice from the line before then a new female voice overlaps"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "b973b1c0-3422-49f2-9985-175121697ecd"
-    },
-    {
       "start_time": 62,
       "end_time": 65,
       "annotation": [
