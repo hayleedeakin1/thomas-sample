@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 82,
-      "end_time": 88,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Rage, rage against the dying of the light\" Singular male voice, he speaks slowly. The last few words \"of the light\" are echoed again by another voice just as he finishes speaking"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "5012f4ee-53cc-4f1d-ab12-e9bf7cabaf36"
-    },
-    {
       "start_time": 89,
       "end_time": 90,
       "annotation": [
