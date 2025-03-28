@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 7,
-      "end_time": 10,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Old age should burn and rave at close of day\" These words overlap with another voice as they begin their reading of the next line"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "1b01697d-23f7-4b71-bb02-1f4b8d5e7a99"
-    },
-    {
       "start_time": 9,
       "end_time": 14,
       "annotation": [
