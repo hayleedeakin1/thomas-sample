@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 62,
-      "end_time": 65,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Rage, rage against the dying of the light\" The female voice from the line before says the first \"rage\" but as she continues, another new female voice overlaps as the previous female fades out. The new female voice is the quickest speaking person in the audio"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "f73c01ea-3351-417d-9ae2-a9822bcad073"
-    },
-    {
       "start_time": 65,
       "end_time": 66,
       "annotation": [
