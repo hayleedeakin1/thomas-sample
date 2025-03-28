@@ -1,27 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 89,
-      "end_time": 90,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Blank noise "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Extra-Poetic Sound"
-        }
-      ],
-      "uuid": "77b243fa-25c0-44ba-b1f2-d905780d0201"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "42006f39-6fa6-49a3-9160-b91c1b0a6f24",
   "source_id": "c0110940-6f71-4a70-8e23-a368da4b70f9"
