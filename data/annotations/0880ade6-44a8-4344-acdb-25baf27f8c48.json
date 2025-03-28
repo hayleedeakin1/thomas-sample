@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 77,
-      "end_time": 81,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Do not go gentle into that good night\" New sIngular male voice"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "f47cd41a-c959-47a1-8f42-716a77762b60"
-    },
-    {
       "start_time": 82,
       "end_time": 88,
       "annotation": [
