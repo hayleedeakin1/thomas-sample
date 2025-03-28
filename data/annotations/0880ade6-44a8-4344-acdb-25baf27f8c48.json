@@ -1,5 +1,574 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blank noise before the first speaker starts his line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sound"
+        }
+      ],
+      "uuid": "36103f32-96ef-49e3-b0b7-c44cdd22913c"
+    },
+    {
+      "start_time": 3,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do not go gentle into that good night\" Singular male voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "998a5cee-e4bc-44df-a2a8-7089a3318a42"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Old age should burn and rave at close of day\" These words overlap with another voice as they begin their reading of the next line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "ada87447-883b-44b8-89c9-b59f0d2d84ad"
+    },
+    {
+      "start_time": 9,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Rage, rage against the dying of the light\" This line overlaps with a female voice as the male voice gets quieter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "9bf2da3b-bd72-4b45-8ce9-bad69b07eb02"
+    },
+    {
+      "start_time": 15,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Though wise men at their end know dark is right\" Overlapping male and female voice, but the female voice is louder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "5efefd3c-edb2-445a-ae22-b29a58013515"
+    },
+    {
+      "start_time": 20,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Because their words had forked no lightning they\" Overlapping voices, male from the line before is louder, female quieter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "7a9bc250-81c5-463c-bb37-c803e5c17fc7"
+    },
+    {
+      "start_time": 23,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do not go gentle into that good night\" Overlapping voices, new female voice is louder while the male voice fades into the background. The female voice speaks a little quicker."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "301da1af-9b0e-4b5d-a61e-e5c9b0ae87c8"
+    },
+    {
+      "start_time": 25,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "8c602599-c519-4ee4-adf5-98e2b001cc7d"
+    },
+    {
+      "start_time": 27,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Good men the last wave by crying how bright\" Singular male voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "42b8b8b0-3a18-436f-af8f-942f85674fb4"
+    },
+    {
+      "start_time": 31,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Their frail deeds might have danced in a green bay\" Male voice fades as a new female voice gets louder"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "5a152f65-3a8d-4075-b0f7-0a62f1111769"
+    },
+    {
+      "start_time": 34,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Rage, rage against the dying of the light.\" New female and male voice mingle together, the male gets louder towards the end of the line"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "ec61ebbc-a501-4f83-8c41-a5e753ac23a7"
+    },
+    {
+      "start_time": 38,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "7f2440ce-df12-4a35-b47b-20bd95994eea"
+    },
+    {
+      "start_time": 40,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Wild men who caught and sang the sun in flight\" New singular male voice. At the end of the line a new soft female voice can be heard in the background"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "b20f7b97-abe0-46cb-b954-53a41b9300cc"
+    },
+    {
+      "start_time": 44,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"And learn, too late, they grieved it on its way\" Singular female voice from the line before"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "22a39968-bec8-420e-8771-4127e6415060"
+    },
+    {
+      "start_time": 47,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do not go gentle into that good night\" New male voice and the female from the line beofre fades out in the first half"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "f824e7d7-5733-470b-9843-3b8adec9adca"
+    },
+    {
+      "start_time": 51,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Grave men, near death, who see with blinding sight\" A new singular female voice then a new male voice overlaps at the end. The female voice is the slowest speaking person at this point in the audio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "2cab1446-a3fb-40c0-9bfa-f51412bdea89"
+    },
+    {
+      "start_time": 57,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Blind eyes could blaze like meteors and be gay\" Male voice from the line before then a new female voice overlaps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "4ab78a30-86fd-4492-819f-cc2df82531e9"
+    },
+    {
+      "start_time": 62,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Rage, rage against the dying of the light\" The female voice from the line before says the first \"rage\" but as she continues, another new female voice overlaps as the previous female fades out. The new female voice is the quickest speaking person in the audio"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "d4a7a759-2ff8-4273-8cc1-233cfb5b45bf"
+    },
+    {
+      "start_time": 65,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "42c3a737-0479-44f3-8026-902e499fbb20"
+    },
+    {
+      "start_time": 67,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"And you, my father, there on the sad height\" A new male voice speaks then another voice joins and says with him the last two words \"sad height\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "43e6b414-3a99-489c-a4c2-de17660439e4"
+    },
+    {
+      "start_time": 71,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Curse, bless me now with your fierce tears I pray\" Two new male voices overlap"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "a827a045-e22b-466e-8a5f-0111c8c7d198"
+    },
+    {
+      "start_time": 77,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do not go gentle into that good night\" New sIngular male voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "f4663359-7af9-4c85-b57e-4177b27a5322"
+    },
+    {
+      "start_time": 82,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Rage, rage against the dying of the light\" Singular male voice, he speaks slowly. The last few words \"of the light\" are echoed again by another voice just as he finishes speaking"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "fb51dcfc-b5f1-435a-a998-cf0f516bb8fd"
+    },
+    {
+      "start_time": 89,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Blank noise "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sound"
+        }
+      ],
+      "uuid": "34bd4e26-a7cb-444b-970d-c3f119cb6f24"
+    }
+  ],
   "set": "Default",
   "event_id": "42006f39-6fa6-49a3-9160-b91c1b0a6f24",
   "source_id": "c0110940-6f71-4a70-8e23-a368da4b70f9"
