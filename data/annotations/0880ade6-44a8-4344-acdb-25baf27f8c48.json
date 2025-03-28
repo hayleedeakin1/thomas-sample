@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 20,
-      "end_time": 22,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Because their words had forked no lightning they\" Overlapping voices, male from the line before is louder, female quieter"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "b61ebc67-3819-48f1-8b68-1b231c0fba6b"
-    },
-    {
       "start_time": 23,
       "end_time": 24,
       "annotation": [
