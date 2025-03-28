@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 71,
-      "end_time": 76,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Curse, bless me now with your fierce tears I pray\" Two new male voices overlap"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Volume"
-        }
-      ],
-      "uuid": "ec8c287e-b391-451b-8006-b0432f2c3e7a"
-    },
-    {
       "start_time": 77,
       "end_time": 81,
       "annotation": [
