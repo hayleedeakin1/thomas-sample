@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 51,
-      "end_time": 56,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Grave men, near death, who see with blinding sight\" A new singular female voice then a new male voice overlaps at the end. The female voice is the slowest speaking person at this point in the audio."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        },
-        {
-          "tag": "Tempo",
-          "category": "Performance"
-        }
-      ],
-      "uuid": "9df2548a-c6f1-42df-bdc3-935a058b2dbf"
-    },
-    {
       "start_time": 57,
       "end_time": 61,
       "annotation": [
